@@ -87,6 +87,48 @@ Exploring machine learning, computer vision and intelligent applications.
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=thejunaidsidhu&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thejunaidsidhu/thejunaidsidhu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=thejunaidsidhu&label=Profile%20Views&color=00FFFF&style=for-the-badge" />
+
+</div>
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+**Let's build something amazing together.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
+
+</div>
+
+---
+
 ## 💻 Most Used Languages
 
 <div align="center">
@@ -126,5 +168,16 @@ Exploring machine learning, computer vision and intelligent applications.
 <div align="center">
 
 ### 🚀 Let's build something amazing together.
+
+</div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejunaidsidhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejunaidsidhu&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
