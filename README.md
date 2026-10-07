@@ -90,7 +90,7 @@ Exploring machine learning, computer vision and intelligent applications.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,fastapi,python,tensorflow,cpp,mongodb,mysql,postgresql,firebase,git,github,docker,postman,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,fastapi,python,tensorflow,cpp,mongodb,mysql,postgresql,firebase,git,github,docker,postman,vscode,figma&perline=7" />
 
 </div>
 
