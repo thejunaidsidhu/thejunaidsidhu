@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Junaid Sidhu
+# 🚀 Muhammad Junaid Nadeem
 
 ### 💻 Full Stack Developer | AI/ML Enthusiast
 
